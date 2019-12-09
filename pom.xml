@@ -87,4 +87,17 @@
 		<lombok.version>1.16.18</lombok.version>
 		<hutool.core>4.3.2</hutool.core>
 	</properties>
+
+    <distributionManagement>
+        <repository>
+            <id>snowball_release</id>
+            <name>snowball_release</name>
+            <url>http://repo.snowballfinance.com/nexus/content/repositories/releases/</url>
+        </repository>
+        <snapshotRepository>
+            <id>snowball_snapshot</id>
+            <name>snowball_snapshot</name>
+            <url>http://repo.snowballfinance.com/nexus/content/repositories/snapshots/</url>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
