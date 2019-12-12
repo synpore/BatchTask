@@ -6,7 +6,7 @@
 
 ![](https://github.com/synpore/StreamingBatchTask/blob/master/batchTaskArchetecture.png?raw=true)
 
-#what we solve？
+#what problem we solve？
 
 1、too much data can't pull successfully at once
 
