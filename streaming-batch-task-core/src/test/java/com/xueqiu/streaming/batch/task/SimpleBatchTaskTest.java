@@ -1,9 +1,9 @@
 package com.xueqiu.streaming.batch.task;
 
 
-import com.xueqiu.streaming.batch.task.core.PooledResourceStrategy;
-import com.xueqiu.streaming.batch.task.core.SimpleBatchTask;
-import com.xueqiu.streaming.batch.task.core.SimpleTaskConfig;
+import com.synpore.streaming.batch.task.core.PooledResourceStrategy;
+import com.synpore.streaming.batch.task.core.SimpleBatchTask;
+import com.synpore.streaming.batch.task.core.SimpleTaskConfig;
 import org.junit.Test;
 
 

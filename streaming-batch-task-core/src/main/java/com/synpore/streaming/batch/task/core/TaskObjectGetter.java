@@ -1,4 +1,4 @@
-package com.xueqiu.streaming.batch.task.core;
+package com.synpore.streaming.batch.task.core;
 
 
 /**

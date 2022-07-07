@@ -1,4 +1,4 @@
-package com.xueqiu.streaming.batch.task.common;
+package com.synpore.streaming.batch.task.common;
 
 import java.util.concurrent.ThreadFactory;
 import java.util.concurrent.atomic.AtomicInteger;

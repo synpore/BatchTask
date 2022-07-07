@@ -21,7 +21,7 @@
 
 ```xml
 <dependency>
-  <groupId>com.xueqiu.fundx</groupId>
+  <groupId>com.synpore</groupId>
     <artifactId>streaming-batch-task-core</artifactId>
     <version>1.0-RELEASE</version>
 </dependency>

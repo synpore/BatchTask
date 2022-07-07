@@ -1,10 +1,10 @@
-package com.xueqiu.streaming.batch.task.core;
+package com.synpore.streaming.batch.task.core;
 
 
 
 
 import cn.hutool.core.lang.Assert;
-import com.xueqiu.streaming.batch.task.common.NamedThreadFactory;
+import com.synpore.streaming.batch.task.common.NamedThreadFactory;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

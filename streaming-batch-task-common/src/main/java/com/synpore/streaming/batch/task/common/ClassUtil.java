@@ -1,4 +1,4 @@
-package com.xueqiu.streaming.batch.task.common;
+package com.synpore.streaming.batch.task.common;
 
 import java.lang.annotation.Annotation;
 import java.lang.reflect.Field;
